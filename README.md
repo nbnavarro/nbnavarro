@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Soy estudiante de Ingeniería Civil en la PUC. Tengo conocimientos del área industrial, pero encantado por la tecnología y el desarrollo de software, por lo que busco oportunidades principalmente en ese ámbito. Tomo decisiones con honestidad y pensando en el bienestar colectivo, por lo que me interesa trabajar por un fin más allá de generar dinero.
+Estudiante de Magíster en Ciencias de la Ingeniería y egresado de Ingeniería Civil en la Pontificia Universidad Católica de Chile, con muchas ganas de aportar y aprender de la industria. Formación industrial, sumado a una fascinación por la tecnología y el desarrollo de software. Tomo decisiones con honestidad y pensando en el bienestar colectivo.
 
 ### Manejo de herramientas 🔧
 - Experimentado: Python
