@@ -1,13 +1,13 @@
-### Hola! 👋
+### Hi! 👋
 
-Estudiante de Magíster en Ciencias de la Ingeniería y egresado de Ingeniería Civil en la Pontificia Universidad Católica de Chile, con muchas ganas de aportar y aprender de la industria. Formación industrial, sumado a una fascinación por la tecnología y el desarrollo de software. Tomo decisiones con honestidad y pensando en el bienestar colectivo.
+Actually I am working as a Software Engineer in Mercado Libre. I hold a Master of Science in Computer Science and a degree in Industrial IT Engineering from the Pontificia Universidad Católica de Chile. My educational background spans diverse domains, including finance, marketing, administration, and operations research, all of which contribute to my holistic understanding of technology's impact on industry. My journey is guided by a profound fascination with creating innovative solutions through technology and software development. I approach decision-making with a commitment to honesty and a keen awareness of its implications on collective well-being.
 
-### Manejo de herramientas 🔧
-- Experimentado: Python
-- Familiarizado: Node, javaScript, HTML, CSS, SQL 
-- Pequeño acercamiento en: PHP, R, Ruby.
+### Tech skill set 🔧
+- Experienced: Go, Python, SQL 
+- Familiarized: C, Node, javaScript, HTML, CSS, React
+- Small zoom in: PHP, R, Ruby.
 
-### Contacto 📫
+### Contact 📫
 - nbnavarro@uc.cl
 <!--
 **nbnavarro/nbnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
